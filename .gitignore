@@ -1,0 +1,6 @@
+RCnet/datasets/
+RCnet/data/
+RCnet/model/
+RCnet/results/
+RCnet/src/wandb/
+RCnet/src/*.txt
